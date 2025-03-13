@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterDecorador", "BetterDecorador\BetterDecorador.csproj", "{5F228AD0-CBDE-417B-8278-12DF3EB38BA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Special", "Special\Special.csproj", "{8F292D4F-A3F4-4EA5-B976-E8C1B2ED70E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{5F228AD0-CBDE-417B-8278-12DF3EB38BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F228AD0-CBDE-417B-8278-12DF3EB38BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F228AD0-CBDE-417B-8278-12DF3EB38BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F292D4F-A3F4-4EA5-B976-E8C1B2ED70E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F292D4F-A3F4-4EA5-B976-E8C1B2ED70E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F292D4F-A3F4-4EA5-B976-E8C1B2ED70E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F292D4F-A3F4-4EA5-B976-E8C1B2ED70E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
